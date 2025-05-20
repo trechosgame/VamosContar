@@ -1,10 +1,9 @@
 # Jogo Vamos Contar
 Desenvolvimento :
-- Criado pelo desenvolver de jogos mobile em csharp Rafat, adaptado por Débora Inocêncio, bacharel em Sistemas de Informação, este
-- jogo de alfabetização, desafia o jogador nas habilidades da matematica de ensino fundamental 
-- Desenvolvido com 19.3% de variáveis CSS
-- 76.0% de práticas JavaScript
-- 4.7% de elementos
+- Criado pelo desenvolver de jogos mobile Rafat, adaptado por Débora Inocêncio, bacharel em Sistemas de Informação.
+- Este jogo de alfabetização, desafia o jogador nas habilidades da matematica de ensino fundamental 
+- Desenvolvido com 100% em cs.
+
 
 Objetivo e Jogabilidade :
 - 
