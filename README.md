@@ -34,7 +34,7 @@ Recursos :
   
 # Color Palette:
  - https://mycolor.space
- - 
+  
 # Conversor de Imagens:
  - https://convertio.co/pt/
 
